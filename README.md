@@ -5,9 +5,13 @@ This project features an interactive Excel dashboard developed to analyze and vi
 Features
 
 Interactive Pivot Tables for multi-dimensional analysis.
+
 Slicers for filtering data by year, product category, and month.
+
 Charts visualizing trends, margins, and top performers.
+
 Automated Macros for streamlined reporting.
+
 Custom layout and formatting for improved usability.
 
 How to Use
@@ -37,4 +41,5 @@ Contributions
 If you would like to contribute to the project, feel free to fork the repository, make changes, and submit a pull request. Your contributions are welcome and appreciated.
 
 Contact
+
 For any questions or support, please contact Athulya Dileep at athulyadileep012@gmail.com or https://www.linkedin.com/in/athulyadileep1625/
