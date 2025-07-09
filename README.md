@@ -23,6 +23,7 @@ Custom layout and formatting for improved usability.
 **Requirements**
 
 Software: Microsoft Excel 2016 or newer.
+
 Permissions: Enable macros to use all interactive features.
 
 **Installation**
