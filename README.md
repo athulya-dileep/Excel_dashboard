@@ -23,7 +23,6 @@ Custom layout and formatting for improved usability.
 **Requirements**
 
 Software: Microsoft Excel 2016 or newer.
-
 Permissions: Enable macros to use all interactive features.
 
 **Installation**
@@ -32,7 +31,7 @@ Permissions: Enable macros to use all interactive features.
 2.Open the Excel file.
 3.Enable editing and macros when prompted.
 
-**Data Source **
+**Data Source**
 
 The source data used in this dashboard represents the sales of a fictional store over a period from 2021 to 2024. This data includes various dimensions such as:
 
